@@ -1,3 +1,9 @@
+.country{
+  display:grid;
+  background-color:black;
+  color:white;
+  
+}
 .App {
   text-align: center;
 }

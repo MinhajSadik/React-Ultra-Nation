@@ -1,0 +1,20 @@
+.country-info{
+    color:black;
+    /* background-color:blanchedalmond; */
+    display:inline-block;
+    border:1px solid black;
+    padding:5px;
+    margin: 5px;
+}
+.country-info:hover{
+    background-color:brown;
+    color:blue;
+}
+.country-img{
+    display:inline-block;
+    width:150px;
+
+}
+img{
+    width:150px;
+}
